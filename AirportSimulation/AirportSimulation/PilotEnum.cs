@@ -1,0 +1,10 @@
+﻿public enum PilotEnum
+{
+    ACTIVE,
+    LANDING,
+    DEPARTING,
+    HAS_LANDED,
+    HAS_DEPARTED,
+    SCHEDULED_TO_DEPART,
+    SCHEDULED_TO_LAND,
+}
